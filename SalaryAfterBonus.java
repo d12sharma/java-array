@@ -3,7 +3,7 @@ import java.util.Scanner;
 class SalaryAfterBonus {
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
-		double [] salary = new double[10]; // declared salary  with array size
+		double [] salary = new double[10]; // declared salary with array size
 		int [] yearOfService = new int[10]; // declared year of service with array size
 		double oldSalary =0.0;  // declared old salary
 		double newSalary=0.0;// // declared new salary
